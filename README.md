@@ -4,6 +4,6 @@ Welcome to [Jedha](https://jedha.co) fast api demo app. Simply `git clone` this 
 
 Check out deployed app here: 
 
-* Jedha demo api
+* [Jedha demo api](https://jedha-fast-api-demo.herokuapp.com/)
 
 Enjoy 😎
